@@ -1,0 +1,461 @@
+[
+  {
+    "id": "sucrose",
+    "name": "Sacarosa (azúcar blanco)",
+    "group": "Azúcares",
+    "sugar_pct": 100.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 100, "pac": 100, "kcal_per_100g": 400, "cost_per_kg": 1.0
+  },
+  {
+    "id": "dextrose",
+    "name": "Dextrosa",
+    "group": "Azúcares",
+    "sugar_pct": 92.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 8.0, "alcohol_pct": 0.0,
+    "pod": 70, "pac": 190, "kcal_per_100g": 368, "cost_per_kg": 2.5
+  },
+  {
+    "id": "glucose_syrup_de38",
+    "name": "Glucosa líquida DE 38-42",
+    "group": "Azúcares",
+    "sugar_pct": 80.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 20.0, "alcohol_pct": 0.0,
+    "pod": 40, "pac": 90, "kcal_per_100g": 320, "cost_per_kg": 3.0
+  },
+  {
+    "id": "glucose_syrup_de60",
+    "name": "Glucosa líquida DE 60",
+    "group": "Azúcares",
+    "sugar_pct": 80.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 20.0, "alcohol_pct": 0.0,
+    "pod": 50, "pac": 120, "kcal_per_100g": 320, "cost_per_kg": 3.5
+  },
+  {
+    "id": "glucose_powder",
+    "name": "Glucosa en polvo DE 38-42",
+    "group": "Azúcares",
+    "sugar_pct": 95.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 5.0, "alcohol_pct": 0.0,
+    "pod": 40, "pac": 90, "kcal_per_100g": 380, "cost_per_kg": 4.0
+  },
+  {
+    "id": "inverted_sugar",
+    "name": "Azúcar invertido (Trimoline)",
+    "group": "Azúcares",
+    "sugar_pct": 75.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 25.0, "alcohol_pct": 0.0,
+    "pod": 130, "pac": 190, "kcal_per_100g": 300, "cost_per_kg": 5.0
+  },
+  {
+    "id": "honey",
+    "name": "Miel",
+    "group": "Azúcares",
+    "sugar_pct": 80.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.5,
+    "water_pct": 19.5, "alcohol_pct": 0.0,
+    "pod": 130, "pac": 190, "kcal_per_100g": 320, "cost_per_kg": 10.0
+  },
+  {
+    "id": "fructose",
+    "name": "Fructosa",
+    "group": "Azúcares",
+    "sugar_pct": 100.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 170, "pac": 190, "kcal_per_100g": 400, "cost_per_kg": 6.0
+  },
+  {
+    "id": "sorbitol_liquid",
+    "name": "Sorbitol líquido 70%",
+    "group": "Azúcares",
+    "sugar_pct": 70.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 30.0, "alcohol_pct": 0.0,
+    "pod": 60, "pac": 190, "kcal_per_100g": 280, "cost_per_kg": 4.5
+  },
+  {
+    "id": "sorbitol_powder",
+    "name": "Sorbitol en polvo",
+    "group": "Azúcares",
+    "sugar_pct": 98.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 2.0, "alcohol_pct": 0.0,
+    "pod": 60, "pac": 190, "kcal_per_100g": 392, "cost_per_kg": 5.5
+  },
+  {
+    "id": "isomalt",
+    "name": "Isomalt",
+    "group": "Azúcares",
+    "sugar_pct": 97.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 3.0, "alcohol_pct": 0.0,
+    "pod": 50, "pac": 100, "kcal_per_100g": 240, "cost_per_kg": 8.0
+  },
+  {
+    "id": "maltitol",
+    "name": "Maltitol",
+    "group": "Azúcares",
+    "sugar_pct": 99.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 1.0, "alcohol_pct": 0.0,
+    "pod": 75, "pac": 100, "kcal_per_100g": 240, "cost_per_kg": 9.0
+  },
+  {
+    "id": "whole_milk",
+    "name": "Leche entera",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 3.6, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 3.4, "lactose_pct": 4.8, "other_solids_pct": 0.7,
+    "water_pct": 87.5, "alcohol_pct": 0.0,
+    "pod": 16, "pac": 0, "kcal_per_100g": 65, "cost_per_kg": 1.0
+  },
+  {
+    "id": "cream_35",
+    "name": "Nata 35% MG",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 35.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 2.3, "lactose_pct": 1.7, "other_solids_pct": 0.0,
+    "water_pct": 61.0, "alcohol_pct": 0.0,
+    "pod": 6, "pac": 0, "kcal_per_100g": 335, "cost_per_kg": 4.5
+  },
+  {
+    "id": "cream_40",
+    "name": "Nata 40% MG",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 40.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 2.0, "lactose_pct": 1.5, "other_solids_pct": 0.0,
+    "water_pct": 56.5, "alcohol_pct": 0.0,
+    "pod": 5, "pac": 0, "kcal_per_100g": 380, "cost_per_kg": 5.0
+  },
+  {
+    "id": "skim_milk_powder",
+    "name": "Leche en polvo desnatada",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 1.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 36.0, "lactose_pct": 52.0, "other_solids_pct": 8.0,
+    "water_pct": 3.0, "alcohol_pct": 0.0,
+    "pod": 16, "pac": 100, "kcal_per_100g": 360, "cost_per_kg": 7.0
+  },
+  {
+    "id": "whole_milk_powder",
+    "name": "Leche en polvo entera",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 26.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 26.0, "lactose_pct": 38.0, "other_solids_pct": 7.0,
+    "water_pct": 3.0, "alcohol_pct": 0.0,
+    "pod": 16, "pac": 80, "kcal_per_100g": 500, "cost_per_kg": 8.0
+  },
+  {
+    "id": "condensed_milk",
+    "name": "Leche condensada azucarada",
+    "group": "Lácteos",
+    "sugar_pct": 55.0, "oil_pct": 0.0, "butter_fat_pct": 8.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 7.0, "lactose_pct": 3.0, "other_solids_pct": 0.0,
+    "water_pct": 27.0, "alcohol_pct": 0.0,
+    "pod": 100, "pac": 150, "kcal_per_100g": 330, "cost_per_kg": 4.0
+  },
+  {
+    "id": "butter",
+    "name": "Mantequilla",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 82.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.8, "lactose_pct": 0.5, "other_solids_pct": 0.7,
+    "water_pct": 16.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 745, "cost_per_kg": 8.0
+  },
+  {
+    "id": "anhydrous_butter",
+    "name": "Mantequilla anhidra (grasa láctea)",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 99.5, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.5, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 900, "cost_per_kg": 12.0
+  },
+  {
+    "id": "yogurt",
+    "name": "Yogur natural",
+    "group": "Lácteos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 3.5, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 4.5, "lactose_pct": 4.0, "other_solids_pct": 0.5,
+    "water_pct": 87.5, "alcohol_pct": 0.0,
+    "pod": 12, "pac": 0, "kcal_per_100g": 61, "cost_per_kg": 2.0
+  },
+  {
+    "id": "dark_choc_55",
+    "name": "Chocolate negro 55%",
+    "group": "Chocolate y Cacao",
+    "sugar_pct": 42.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 33.0,
+    "cocoa_pct": 22.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 2.0,
+    "water_pct": 1.0, "alcohol_pct": 0.0,
+    "pod": 42, "pac": 42, "kcal_per_100g": 570, "cost_per_kg": 12.0
+  },
+  {
+    "id": "dark_choc_65",
+    "name": "Chocolate negro 65%",
+    "group": "Chocolate y Cacao",
+    "sugar_pct": 33.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 38.0,
+    "cocoa_pct": 27.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 1.0,
+    "water_pct": 1.0, "alcohol_pct": 0.0,
+    "pod": 33, "pac": 33, "kcal_per_100g": 580, "cost_per_kg": 14.0
+  },
+  {
+    "id": "dark_choc_70",
+    "name": "Chocolate negro 70%",
+    "group": "Chocolate y Cacao",
+    "sugar_pct": 28.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 42.0,
+    "cocoa_pct": 28.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 1.0,
+    "water_pct": 1.0, "alcohol_pct": 0.0,
+    "pod": 28, "pac": 28, "kcal_per_100g": 590, "cost_per_kg": 16.0
+  },
+  {
+    "id": "milk_chocolate",
+    "name": "Chocolate con leche",
+    "group": "Chocolate y Cacao",
+    "sugar_pct": 45.0, "oil_pct": 0.0, "butter_fat_pct": 5.0, "cocoa_butter_pct": 25.0,
+    "cocoa_pct": 7.0, "amp_pct": 5.0, "lactose_pct": 6.0, "other_solids_pct": 6.0,
+    "water_pct": 1.0, "alcohol_pct": 0.0,
+    "pod": 45, "pac": 45, "kcal_per_100g": 550, "cost_per_kg": 10.0
+  },
+  {
+    "id": "white_chocolate",
+    "name": "Chocolate blanco",
+    "group": "Chocolate y Cacao",
+    "sugar_pct": 45.0, "oil_pct": 0.0, "butter_fat_pct": 4.0, "cocoa_butter_pct": 30.0,
+    "cocoa_pct": 0.0, "amp_pct": 6.0, "lactose_pct": 8.0, "other_solids_pct": 6.0,
+    "water_pct": 1.0, "alcohol_pct": 0.0,
+    "pod": 45, "pac": 45, "kcal_per_100g": 540, "cost_per_kg": 9.0
+  },
+  {
+    "id": "cocoa_powder",
+    "name": "Cacao en polvo 22-24% MG",
+    "group": "Chocolate y Cacao",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 23.0,
+    "cocoa_pct": 72.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 5.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 380, "cost_per_kg": 15.0
+  },
+  {
+    "id": "cocoa_butter",
+    "name": "Manteca de cacao",
+    "group": "Chocolate y Cacao",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 100.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 900, "cost_per_kg": 20.0
+  },
+  {
+    "id": "vegetable_oil",
+    "name": "Aceite vegetal neutro",
+    "group": "Grasas",
+    "sugar_pct": 0.0, "oil_pct": 100.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 900, "cost_per_kg": 3.0
+  },
+  {
+    "id": "olive_oil",
+    "name": "Aceite de oliva",
+    "group": "Grasas",
+    "sugar_pct": 0.0, "oil_pct": 100.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 900, "cost_per_kg": 6.0
+  },
+  {
+    "id": "coconut_oil",
+    "name": "Aceite de coco",
+    "group": "Grasas",
+    "sugar_pct": 0.0, "oil_pct": 100.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 900, "cost_per_kg": 5.0
+  },
+  {
+    "id": "lard",
+    "name": "Manteca de cerdo",
+    "group": "Grasas",
+    "sugar_pct": 0.0, "oil_pct": 100.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 900, "cost_per_kg": 3.5
+  },
+  {
+    "id": "puree_strawberry",
+    "name": "Puré de fresa",
+    "group": "Frutas y Purés",
+    "sugar_pct": 7.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 3.0,
+    "water_pct": 90.0, "alcohol_pct": 0.0,
+    "pod": 7, "pac": 7, "kcal_per_100g": 32, "cost_per_kg": 8.0
+  },
+  {
+    "id": "puree_raspberry",
+    "name": "Puré de frambuesa",
+    "group": "Frutas y Purés",
+    "sugar_pct": 5.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 5.0,
+    "water_pct": 90.0, "alcohol_pct": 0.0,
+    "pod": 5, "pac": 5, "kcal_per_100g": 28, "cost_per_kg": 10.0
+  },
+  {
+    "id": "puree_mango",
+    "name": "Puré de mango",
+    "group": "Frutas y Purés",
+    "sugar_pct": 14.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 3.0,
+    "water_pct": 83.0, "alcohol_pct": 0.0,
+    "pod": 14, "pac": 14, "kcal_per_100g": 60, "cost_per_kg": 9.0
+  },
+  {
+    "id": "puree_passion_fruit",
+    "name": "Puré de maracuyá",
+    "group": "Frutas y Purés",
+    "sugar_pct": 9.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 4.0,
+    "water_pct": 87.0, "alcohol_pct": 0.0,
+    "pod": 9, "pac": 9, "kcal_per_100g": 40, "cost_per_kg": 12.0
+  },
+  {
+    "id": "puree_banana",
+    "name": "Puré de plátano",
+    "group": "Frutas y Purés",
+    "sugar_pct": 18.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 5.0,
+    "water_pct": 77.0, "alcohol_pct": 0.0,
+    "pod": 18, "pac": 18, "kcal_per_100g": 89, "cost_per_kg": 5.0
+  },
+  {
+    "id": "lemon_juice",
+    "name": "Zumo de limón",
+    "group": "Frutas y Purés",
+    "sugar_pct": 2.5, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 1.0,
+    "water_pct": 96.5, "alcohol_pct": 0.0,
+    "pod": 2, "pac": 2, "kcal_per_100g": 22, "cost_per_kg": 4.0
+  },
+  {
+    "id": "rum",
+    "name": "Ron",
+    "group": "Alcoholes",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 60.0, "alcohol_pct": 40.0,
+    "pod": 0, "pac": 360, "kcal_per_100g": 231, "cost_per_kg": 15.0
+  },
+  {
+    "id": "grand_marnier",
+    "name": "Grand Marnier",
+    "group": "Alcoholes",
+    "sugar_pct": 25.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 35.0, "alcohol_pct": 40.0,
+    "pod": 25, "pac": 360, "kcal_per_100g": 280, "cost_per_kg": 30.0
+  },
+  {
+    "id": "kirsch",
+    "name": "Kirsch",
+    "group": "Alcoholes",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 55.0, "alcohol_pct": 45.0,
+    "pod": 0, "pac": 400, "kcal_per_100g": 250, "cost_per_kg": 25.0
+  },
+  {
+    "id": "liqueur_40",
+    "name": "Licor genérico 40%",
+    "group": "Alcoholes",
+    "sugar_pct": 20.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 40.0, "alcohol_pct": 40.0,
+    "pod": 20, "pac": 360, "kcal_per_100g": 260, "cost_per_kg": 20.0
+  },
+  {
+    "id": "gelatin",
+    "name": "Gelatina (hojas/polvo)",
+    "group": "Estabilizantes y Otros",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 86.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 14.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 340, "cost_per_kg": 25.0
+  },
+  {
+    "id": "pectin_nh",
+    "name": "Pectina NH",
+    "group": "Estabilizantes y Otros",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 95.0,
+    "water_pct": 5.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 5, "cost_per_kg": 60.0
+  },
+  {
+    "id": "agar",
+    "name": "Agar-agar",
+    "group": "Estabilizantes y Otros",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 90.0,
+    "water_pct": 10.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 26, "cost_per_kg": 50.0
+  },
+  {
+    "id": "water",
+    "name": "Agua",
+    "group": "Estabilizantes y Otros",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 0.0,
+    "water_pct": 100.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 0, "cost_per_kg": 0.0
+  },
+  {
+    "id": "salt",
+    "name": "Sal",
+    "group": "Estabilizantes y Otros",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 100.0,
+    "water_pct": 0.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 0, "cost_per_kg": 0.5
+  },
+  {
+    "id": "vanilla_extract",
+    "name": "Extracto de vainilla",
+    "group": "Estabilizantes y Otros",
+    "sugar_pct": 13.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 0.0, "lactose_pct": 0.0, "other_solids_pct": 2.0,
+    "water_pct": 50.0, "alcohol_pct": 35.0,
+    "pod": 13, "pac": 30, "kcal_per_100g": 288, "cost_per_kg": 40.0
+  },
+  {
+    "id": "egg_yolk",
+    "name": "Yema de huevo",
+    "group": "Huevos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 31.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 16.0, "lactose_pct": 0.0, "other_solids_pct": 2.0,
+    "water_pct": 51.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 322, "cost_per_kg": 8.0
+  },
+  {
+    "id": "egg_white",
+    "name": "Clara de huevo",
+    "group": "Huevos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 0.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 11.0, "lactose_pct": 0.0, "other_solids_pct": 1.0,
+    "water_pct": 88.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 47, "cost_per_kg": 6.0
+  },
+  {
+    "id": "whole_egg",
+    "name": "Huevo entero",
+    "group": "Huevos",
+    "sugar_pct": 0.0, "oil_pct": 0.0, "butter_fat_pct": 11.0, "cocoa_butter_pct": 0.0,
+    "cocoa_pct": 0.0, "amp_pct": 13.0, "lactose_pct": 0.0, "other_solids_pct": 1.0,
+    "water_pct": 75.0, "alcohol_pct": 0.0,
+    "pod": 0, "pac": 0, "kcal_per_100g": 155, "cost_per_kg": 4.0
+  }
+]

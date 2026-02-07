@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ganache_molded",
+    "name": "Ganache moldeada",
+    "description": "Ganache para bombones moldeados. Textura firme, buena vida útil.",
+    "sugar_range": {"min": 22, "max": 32},
+    "fat_range": {"min": 28, "max": 35},
+    "dry_matter_range": {"min": 5, "max": 18},
+    "liquid_range": {"min": 18, "max": 25},
+    "pod_range": null,
+    "pac_range": null
+  },
+  {
+    "id": "ganache_coating",
+    "name": "Ganache de cobertura",
+    "description": "Ganache para cubrir tartas o pasteles. Más grasa para fluidez.",
+    "sugar_range": {"min": 20, "max": 30},
+    "fat_range": {"min": 32, "max": 40},
+    "dry_matter_range": {"min": 5, "max": 15},
+    "liquid_range": {"min": 15, "max": 22},
+    "pod_range": null,
+    "pac_range": null
+  },
+  {
+    "id": "ganache_slicing",
+    "name": "Ganache de corte",
+    "description": "Ganache para cortar en porciones. Equilibrio entre firmeza y cremosidad.",
+    "sugar_range": {"min": 24, "max": 34},
+    "fat_range": {"min": 25, "max": 33},
+    "dry_matter_range": {"min": 5, "max": 15},
+    "liquid_range": {"min": 20, "max": 28},
+    "pod_range": null,
+    "pac_range": null
+  },
+  {
+    "id": "ice_cream",
+    "name": "Helado",
+    "description": "Helado artesanal. El equilibrio de POD y PAC es crucial.",
+    "sugar_range": {"min": 18, "max": 22},
+    "fat_range": {"min": 6, "max": 12},
+    "dry_matter_range": {"min": 10, "max": 20},
+    "liquid_range": {"min": 58, "max": 66},
+    "pod_range": {"min": 16, "max": 20},
+    "pac_range": {"min": 24, "max": 28}
+  },
+  {
+    "id": "sorbet",
+    "name": "Sorbete",
+    "description": "Sorbete de frutas sin lácteos. POD y PAC determinan la textura.",
+    "sugar_range": {"min": 28, "max": 32},
+    "fat_range": {"min": 0, "max": 1},
+    "dry_matter_range": {"min": 1, "max": 8},
+    "liquid_range": {"min": 62, "max": 72},
+    "pod_range": {"min": 16, "max": 19},
+    "pac_range": {"min": 24, "max": 28}
+  },
+  {
+    "id": "mousse",
+    "name": "Mousse de chocolate",
+    "description": "Mousse aireada de chocolate. Balance entre estructura y ligereza.",
+    "sugar_range": {"min": 15, "max": 25},
+    "fat_range": {"min": 20, "max": 30},
+    "dry_matter_range": {"min": 5, "max": 15},
+    "liquid_range": {"min": 30, "max": 40},
+    "pod_range": null,
+    "pac_range": null
+  },
+  {
+    "id": "pastry_cream",
+    "name": "Crema pastelera",
+    "description": "Crema base para rellenos. Alta proporción de líquidos.",
+    "sugar_range": {"min": 20, "max": 28},
+    "fat_range": {"min": 5, "max": 10},
+    "dry_matter_range": {"min": 3, "max": 10},
+    "liquid_range": {"min": 55, "max": 65},
+    "pod_range": null,
+    "pac_range": null
+  },
+  {
+    "id": "praline",
+    "name": "Praliné",
+    "description": "Pasta de frutos secos caramelizados. Muy concentrado en grasas y azúcares.",
+    "sugar_range": {"min": 35, "max": 50},
+    "fat_range": {"min": 40, "max": 55},
+    "dry_matter_range": {"min": 2, "max": 10},
+    "liquid_range": {"min": 0, "max": 3},
+    "pod_range": null,
+    "pac_range": null
+  }
+]
