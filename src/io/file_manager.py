@@ -18,11 +18,11 @@ def _data_dir() -> Path:
     """
     import sys
     if getattr(sys, 'frozen', False):
-        # Running from PyInstaller bundle
-        base = Path(sys._MEIPASS)  # type: ignore
+        # Running from PyInstaller bundle - data is at _MEIPASS/data/
+        return Path(sys._MEIPASS) / "data"  # type: ignore
     else:
-        base = Path(__file__).resolve().parent.parent
-    return base / "data"
+        # Development - data is at src/data/
+        return Path(__file__).resolve().parent.parent / "data"
 
 
 class FileManager:

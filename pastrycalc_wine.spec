@@ -11,8 +11,8 @@ a = Analysis(
     pathex=[project_root],
     binaries=[],
     datas=[
-        (os.path.join(project_root, 'src', 'data', 'ingredients.json'), os.path.join('src', 'data')),
-        (os.path.join(project_root, 'src', 'data', 'categories.json'), os.path.join('src', 'data')),
+        (os.path.join(project_root, 'src', 'data', 'ingredients.json'), 'data'),
+        (os.path.join(project_root, 'src', 'data', 'categories.json'), 'data'),
     ],
     hiddenimports=['customtkinter'],
     hookspath=[],
